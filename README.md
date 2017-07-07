@@ -1,4 +1,5 @@
-# aws-serverless - A small AWS serverless project for learning and fun
+# aws-serverless
+*A small AWS serverless project for learning and fun*
 
 ## 1: Getting Started
 
@@ -33,12 +34,12 @@
 * [API-specific Features & Options](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275882?start=0)
 * [Introducing the Request-Response Cycle](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275888?start=0)
 * [Understanding the Request-Response Cycle](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275898?start=0)
-* [Creating a New API]()
-* [Creating a Resource (= URL Path)]()
-* [Handling CORS and the OPTIONS Preflight Request]()
-* [Creating a (HTTP) Method]()
-* [What is AWS Lambda?]()
-* [AWS Lambda: Useful Resources & Links]()
+* [Creating a New API](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275902?start=0)
+* [Creating a Resource (= URL Path)](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275910?start=0)
+* [Handling CORS and the OPTIONS Preflight Request](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275916?start=0)
+* [Creating a (HTTP) Method](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275924?start=0)
+* [What is AWS Lambda?](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275930?start=0)
+* [AWS Lambda: Useful Resources & Links](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7220630?start=0)
 * [Creating a Lambda Function]()
 * [Lambda Pricing & Uploading Code]()
 * [Connecting Lambda Functions to API Gateway Endpoints]()
