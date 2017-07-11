@@ -49,7 +49,7 @@
 * [Understanding "event" in Lambda Functions](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275980?start=0)
 * [Forwarding Requests with "Proxy Integration"](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275982?start=0)
 * [Accessing Lambda Logs](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275992?start=0)
-* [Getting Started with Body Mapping Templates]()
+* [Getting Started with Body Mapping Templates](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7275998?start=0)
 * [Extracting Request Data with Body Mapping Templates]()
 * [What's the Idea behind Body Mappings?]()
 * [Understanding Body Mapping Templates]()
