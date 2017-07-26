@@ -99,9 +99,9 @@
 # 5: Authenticating Users with Cognito and API Gateway Authorizers
 
 * [Module Introduction](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7228604?start=0)
-* [How to add Authorization to API Gateway]()
-* [Understanding Custom Authorizers (API Gateway)]()
-* [Creating a Custom Authorizer Function]()
+* [How to add Authorization to API Gateway](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248324?start=0)
+* [Understanding Custom Authorizers (API Gateway)](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248318?start=0)
+* [Creating a Custom Authorizer Function](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248326?start=0)
 * [Custom Authorizers: Provided Input & Expected Output]()
 * [Using Custom Authorizers]()
 * [Retrieving Users from Custom Authorizers]()
