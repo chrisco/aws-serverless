@@ -113,9 +113,9 @@
 * [The Example Web App, Angular and TypeScript](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248494?start=0)
 * [Adding Cognito to a Frontend App - Getting Started]()https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248358?start=0
 * [Using Cognito in iOS or Android Apps](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248480?start=0)
-* [Adding Signup to the Frontend App]()
-* [Adding User Confirmation to a Frontend App]()
-* [Adding Signin to a Frontend App]()
+* [Adding Signup to the Frontend App](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7389824?start=0)
+* [Adding User Confirmation to a Frontend App](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248366?start=0)
+* [Adding Signin to a Frontend App](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248372?start=0)
 * [Managing User State via Cognito]()
 * [Using a Cognito Authorizer with API Gateway]()
 * [Passing the right User ID to Lambda]()
