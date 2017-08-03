@@ -124,3 +124,22 @@
 * [Passing Query Params from the Frontend](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248402?start=0)
 * [Passing the User Id to the DELETE Endpoint](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248416?start=0)
 * [Wrap Up](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248406?start=0)
+
+# 6: Hosting a Serverless SPA
+
+* [Module Introduction](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248428?start=0)
+* [What is S3?](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248432?start=0)
+* [AWS S3: Useful Resources & Links](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248438?start=0)
+* [Creating a S3 Bucket](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248442?start=0)
+* [Uploading the Web App to the Bucket](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248444?start=0)
+* [Turning a S3 Bucket into a Static Webserver]()
+* [Setting up Logging]()
+* [Optimizing Content Delivery: What is AWS CloudFront?]()
+* [AWS CloudFront: Useful Resources & Links]()
+* [Setting up a CloudFront Distribution]()
+* [Finishing the CloudFront Setup]()
+* [Using a Custom Domain: What is Route53?]()
+* [AWS Route53: Useful Resources & Links]()
+* [Registering a Domain]()
+* [Connecting a Domain to a CloudFront Distribution]()
+* [Wrap Up]()
