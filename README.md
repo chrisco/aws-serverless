@@ -143,3 +143,23 @@
 * [Registering a Domain](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7248540?start=0)
 * [Connecting a Domain to a CloudFront Distribution](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7271088?start=0)
 * [Wrap Up](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7271092?start=0)
+
+## 7: Beyond the Basics - An Outlook
+
+* [Module Introduction](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7271096?start=0)
+* [Documenting an API](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7322066?start=0)
+* [Other AWS Lambda Triggers]()
+* [Going Serverless with a Node/ Express App (Non-API!)]()
+* [Running Node/ Express Apps via Lambda + API Gateway]()
+* [Pros and Cons of Serverless Node/Express MPA]()
+* [Learn more about AWS Serverless + Express Apps]()
+* [Serverless Apps and Security]()
+* [A Case of a Better Development Workflow]()
+* [Getting to know the Serverless Framework]()
+* [More about the Serverless Framework]()
+* [Getting to know SAM (Serverless Application Model) by AWS]()
+* [More about the Serverless Application Model (SAM)]()
+* [Testing Serverless Apps with localstack]()
+* [Other useful AWS Services]()
+* [Wrap Up]()
+* [Useful Resources & Links]()
