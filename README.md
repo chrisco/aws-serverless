@@ -157,9 +157,13 @@
 * [A Case of a Better Development Workflow](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274100?start=0)
 * [Getting to know the Serverless Framework](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274120?start=0)
 * [More about the Serverless Framework](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7290014?start=0)
-* [Getting to know SAM (Serverless Application Model) by AWS]()
-* [More about the Serverless Application Model (SAM)]()
-* [Testing Serverless Apps with localstack]()
-* [Other useful AWS Services]()
-* [Wrap Up]()
-* [Useful Resources & Links]()
+* [Getting to know SAM (Serverless Application Model) by AWS](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274122?start=0)
+* [More about the Serverless Application Model (SAM)](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7290020?start=0)
+* [Testing Serverless Apps with localstack](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274126?start=0)
+* [Other useful AWS Services](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274128?start=0)
+* [Wrap Up](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7274130?start=0)
+* [Useful Resources & Links](https://www.udemy.com/aws-serverless-a-complete-introduction/learn/v4/t/lecture/7290046?start=0)
+
+# Course Roundup
+
+* [Roundup]()
